@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/spektrum/static/css/main.ab7136cd.chunk.css",
-    "main.js": "/spektrum/static/js/main.a6437d78.chunk.js",
-    "main.js.map": "/spektrum/static/js/main.a6437d78.chunk.js.map",
-    "runtime-main.js": "/spektrum/static/js/runtime-main.c61b0c64.js",
-    "runtime-main.js.map": "/spektrum/static/js/runtime-main.c61b0c64.js.map",
-    "static/js/2.d11498b0.chunk.js": "/spektrum/static/js/2.d11498b0.chunk.js",
-    "static/js/2.d11498b0.chunk.js.map": "/spektrum/static/js/2.d11498b0.chunk.js.map",
-    "static/js/3.c776bc47.chunk.js": "/spektrum/static/js/3.c776bc47.chunk.js",
-    "static/js/3.c776bc47.chunk.js.map": "/spektrum/static/js/3.c776bc47.chunk.js.map",
+    "main.js": "/spektrum/static/js/main.2d343bef.chunk.js",
+    "main.js.map": "/spektrum/static/js/main.2d343bef.chunk.js.map",
+    "runtime-main.js": "/spektrum/static/js/runtime-main.df3ffe5f.js",
+    "runtime-main.js.map": "/spektrum/static/js/runtime-main.df3ffe5f.js.map",
+    "static/js/2.6feddd6d.chunk.js": "/spektrum/static/js/2.6feddd6d.chunk.js",
+    "static/js/2.6feddd6d.chunk.js.map": "/spektrum/static/js/2.6feddd6d.chunk.js.map",
+    "static/js/3.0b034b75.chunk.js": "/spektrum/static/js/3.0b034b75.chunk.js",
+    "static/js/3.0b034b75.chunk.js.map": "/spektrum/static/js/3.0b034b75.chunk.js.map",
     "index.html": "/spektrum/index.html",
     "static/css/main.ab7136cd.chunk.css.map": "/spektrum/static/css/main.ab7136cd.chunk.css.map",
-    "static/js/2.d11498b0.chunk.js.LICENSE.txt": "/spektrum/static/js/2.d11498b0.chunk.js.LICENSE.txt"
+    "static/js/2.6feddd6d.chunk.js.LICENSE.txt": "/spektrum/static/js/2.6feddd6d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c61b0c64.js",
-    "static/js/2.d11498b0.chunk.js",
+    "static/js/runtime-main.df3ffe5f.js",
+    "static/js/2.6feddd6d.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.a6437d78.chunk.js"
+    "static/js/main.2d343bef.chunk.js"
   ]
 }
